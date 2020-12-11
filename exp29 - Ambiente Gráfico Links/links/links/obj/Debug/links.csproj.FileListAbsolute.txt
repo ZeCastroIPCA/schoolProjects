@@ -1,0 +1,10 @@
+C:\Users\jmane\Desktop\Experiencias\exp29 - Ambiente Gráfico Links 2\links\links\bin\Debug\links.exe.config
+C:\Users\jmane\Desktop\Experiencias\exp29 - Ambiente Gráfico Links 2\links\links\bin\Debug\links.exe
+C:\Users\jmane\Desktop\Experiencias\exp29 - Ambiente Gráfico Links 2\links\links\bin\Debug\links.pdb
+C:\Users\jmane\Desktop\Experiencias\exp29 - Ambiente Gráfico Links 2\links\links\obj\Debug\links.csprojAssemblyReference.cache
+C:\Users\jmane\Desktop\Experiencias\exp29 - Ambiente Gráfico Links 2\links\links\obj\Debug\links.Form1.resources
+C:\Users\jmane\Desktop\Experiencias\exp29 - Ambiente Gráfico Links 2\links\links\obj\Debug\links.Properties.Resources.resources
+C:\Users\jmane\Desktop\Experiencias\exp29 - Ambiente Gráfico Links 2\links\links\obj\Debug\links.csproj.GenerateResource.cache
+C:\Users\jmane\Desktop\Experiencias\exp29 - Ambiente Gráfico Links 2\links\links\obj\Debug\links.csproj.CoreCompileInputs.cache
+C:\Users\jmane\Desktop\Experiencias\exp29 - Ambiente Gráfico Links 2\links\links\obj\Debug\links.exe
+C:\Users\jmane\Desktop\Experiencias\exp29 - Ambiente Gráfico Links 2\links\links\obj\Debug\links.pdb
